@@ -25,6 +25,7 @@ function deleteTask(task: string):number
     
     return arr1.length;
 }//deleteTask
+
 addTask("Clean");
 addTask("Cook");
 listAllTasks();
